@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/alexcapstick/loss_adapted_plasticity/raw/main/assets/logo.png" alt="AutoElicit logo" width="400"/>
+<img src="https://github.com/alexcapstick/loss_adapted_plasticity/raw/main/assets/logo.png" alt="AutoElicit logo" width="800"/>
 </p>
 
 # Loss Adapted Plasticity

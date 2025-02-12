@@ -8,7 +8,7 @@ long_description = (this_directory / "README.md").read_text()
 
 setup(
     name="loss_adapted_plasticity",
-    version="0.1.6",
+    version="0.1.8",
     description="A python package for training neural networks on noisy data sources",
     long_description=long_description,
     long_description_content_type="text/markdown",
